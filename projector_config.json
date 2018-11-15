@@ -6,9 +6,9 @@
           864,
           1000
         ],
-        "tensorPath": "https://github.com/naotokui/projector_test/blob/master/album_embedding.tsv",
+        "tensorPath": "https://raw.githubusercontent.com/naotokui/projector_test/master/album_embedding.tsv",
         "sprite": {
-          "imagePath": "https://github.com/naotokui/projector_test/blob/master/sprite.jpg?raw=true",
+          "imagePath": "https://raw.githubusercontent.com/naotokui/projector_test/master/sprite.jpg",
           "singleImageDim": [
             64,
             64
