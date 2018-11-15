@@ -3,15 +3,15 @@
       {
         "tensorName": "My tensor",
         "tensorShape": [
-          864,
-          1000
+          500,
+          4096
         ],
         "tensorPath": "https://raw.githubusercontent.com/naotokui/projector_test/master/album_embedding.tsv",
         "sprite": {
           "imagePath": "https://raw.githubusercontent.com/naotokui/projector_test/master/sprite.jpg",
           "singleImageDim": [
-            64,
-            64
+            128,
+            128
           ]
         }
       }
