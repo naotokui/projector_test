@@ -1,0 +1,19 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "My tensor",
+        "tensorShape": [
+          864,
+          1000
+        ],
+        "tensorPath": "https://github.com/naotokui/projector_test/blob/master/album_embedding.tsv",
+        "sprite": {
+          "imagePath": "https://github.com/naotokui/projector_test/blob/master/sprite.jpg?raw=true",
+          "singleImageDim": [
+            64,
+            64
+          ]
+        }
+      }
+    ]
+  }
