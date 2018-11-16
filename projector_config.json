@@ -4,7 +4,7 @@
         "tensorName": "My tensor",
         "tensorShape": [
           500,
-          4096
+          300
         ],
         "tensorPath": "https://raw.githubusercontent.com/naotokui/projector_test/master/album_embedding.tsv",
         "sprite": {
